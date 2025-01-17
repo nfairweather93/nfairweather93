@@ -2,4 +2,6 @@
 
 ### My name is Nathan Fairweather, a student at Wright State pursuing my BACS with a Communications Minor 👾
 
-### This semester, I plan on creating projects such as a password cracker and GUI based game in java ✅
+### The projects I'm currently hoping to pusue are:
+1. A Java Based GUI Game
+2. A Password Cracker
