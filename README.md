@@ -7,4 +7,4 @@
 2. A Password Cracker
 
 ### Follow Me Here! 🌐
-**[Instagram]**(https://www.instagram.com/fairweather_93/)
+[Instagram](https://www.instagram.com/fairweather_93/)
