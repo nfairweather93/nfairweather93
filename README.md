@@ -5,7 +5,7 @@ My name is Nathan Fairweather, a student at Wright State pursuing my BACS with a
 
 ### **Programming Languages 📚**
 - Java (Advanced)
-- HTML/CSS (Intermediate)
+- HTML/CSS/JavaScript (Intermediate Web Development)
 - Bash (Beginner)
 - C++ (Beginner)
 
