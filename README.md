@@ -40,4 +40,7 @@ Very basic autoclicker made in Python. Made for fun in October 2025 to use in th
 
 
 ### Follow Me Here! 🌐
-[Instagram](https://www.instagram.com/fairweather_93/)
+[Instagram](https://www.instagram.com/fairweather_93/) 👽 
+
+[Email Me](mailto:nfairweather93@gmail.com) ✉️
+
