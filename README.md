@@ -26,7 +26,7 @@ My name is Nathan Fairweather, a student at Wright State pursuing my BACS with a
 ### Completed projects: ✅
 - **[Wright State Faculty Budget Balancer](https://github.com/nfairweather93/2026_Hackathon)** 💵📈
 
-This webpage was created during Wright State University's 2026 Hackathon in collaboration with [Grant Rynders](https://github.com/GrantBenR). For clarity, the idea behind this project is quite the joke; however, it pulls public professor salary data off the web, compares it to their *Rate My Professor* statistics, and presents a "Salary Efficieny" to the user upon search.
+This webpage was created during Wright State University's 2026 Hackathon in collaboration with [Grant Rynders](https://github.com/GrantBenR). For clarity, the idea behind this project is quite the joke; however, it pulls public professor salary data off the web, compares it to their *Rate My Professor* statistics, and presents a "Salary Efficiency" to the user upon search.
 
 ---
 
