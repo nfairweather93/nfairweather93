@@ -24,6 +24,12 @@ My name is Nathan Fairweather, a student at Wright State pursuing my BACS with a
 ---
 
 ### Completed projects: ✅
+- **[Wright State Faculty Budget Balancer](https://github.com/nfairweather93/2026_Hackathon)** 💵📈
+
+This webpage was created during Wright State University's 2026 Hackathon in collaboration with [Grant Rynders](https://github.com/GrantBenR). For clarity, the idea behind this project is quite the joke; however, it pulls public professor salary data off the web, compares it to their *Rate My Professor* statistics, and presents a "Salary Efficieny" to the user upon search.
+
+---
+
 - **[Hackathon Discord Bot](https://github.com/GrantBenR/2025Hackathon)** 🤖🎶
 
 This discord bot was made in 24 hours during the Wright State Spring 2025 Hackathon in collaboration with [Grant Rynders](https://github.com/GrantBenR). It was made out of discord's [JDA API](https://jda.wiki/setup/intellij/) along with [Spotify's Developer API](https://developer.spotify.com/documentation/web-api) to be a bot which would take in a user's Spotify listening statistics, and insult them based on a pre-written lists of artists and responses.
